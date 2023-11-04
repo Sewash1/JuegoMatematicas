@@ -1,5 +1,5 @@
 # JuegoMatematicas
-Aplicación para Android tipo juego para practicar operaciones matemáticas básicas. Desarrollado en Android Studio.  
+Aplicación para Android tipo juego para practicar operaciones matemáticas básicas. Desarrollado en Android Studio usando Java.  
 
 Para probar el juego en tu Android solo tienes que descargar e intalar el archivo app-release.apk  
 
